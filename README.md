@@ -1,6 +1,6 @@
-## Overview of the Coursework
+## Overview 
 
-This coursework is an individual project, and you will need to demonstrate and explain your work
+This is an individual project, and you will need to demonstrate and explain your work
 in a dedicated lab session. Furthermore, you will need to submit your original solution for this
 coursework consisting of a small written technical report including code.
 The main learning objective of this coursework is for you to create your demo scene, in doing so
