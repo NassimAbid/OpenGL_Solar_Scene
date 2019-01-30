@@ -10,16 +10,20 @@ skills in 3D graphics and animation, and have a working demo to show future empl
 
 The following software technologies are available for the development of your demo scene:
 
-[] Visual Studio IDE (https://www.visualstudio.com/)
-[] Blender Creation Suite (https://www.blender.org/)
+ Visual Studio IDE (https://www.visualstudio.com/)
+
+ Blender Creation Suite (https://www.blender.org/)
 
 The following open source libraries are recommended for you to complete this coursework:
-[] GLFW Library (http://www.glfw.org/index.html)
-[] GLEW Library (http://glew.sourceforge.net/)
-[] GLM Library (http://glm.g-truc.net)
+GLFW Library (http://www.glfw.org/index.html)
+
+ GLEW Library (http://glew.sourceforge.net/)
+ 
+ GLM Library (http://glm.g-truc.net)
 
 The following open source programming interfaces are required for this coursework:
-[] OpenGL core version 4.2 or later (https://www.opengl.org/).
+
+ OpenGL core version 4.2 or later (https://www.opengl.org/).
 
 These technologies are available on the Edinburgh Windows machines in labs EMG47 and EMG48,
 and in Dubai machines. If you want to develop your demo scene in your laptop, you may be
